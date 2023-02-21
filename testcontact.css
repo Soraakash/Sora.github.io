@@ -454,18 +454,21 @@ li i {
     padding: 15px;
     width: 80vw;
     color: #e2577e;
+    /* background-color: #e19caf; */
+    margin-bottom: 100px;
 
   }
   .first-contact-row{
+    /* background-color: #efbdca; */
     display: flex;
     flex-direction: column;
-    height: 15vh;
+    height: 20vh;
     margin-bottom: 20px;
   }
   .first-contact-row div {
     /* background-color: coral; */
     width: 100%;
-    margin-bottom: 10px;
+    margin-bottom: 25px;
     /* border: 1px solid black; */
   }
   .first-contact-row input {
@@ -477,13 +480,13 @@ li i {
     color: #c27b8f;
     cursor: horizontal-text;
     width: 65vw;
-    margin-top: 8px;
+    margin-top: 10px;
   }
   .second-contact-row {
-    
+    /* background-color: #444646; */
     display: flex;
     flex-direction: column;
-    height: 15vh;
+    height: 20vh;
     margin-bottom: 10px;
   }
   .second-contact-row div {
