@@ -462,7 +462,7 @@ li span {
     width: 100vw;
   }
   .main{
-    background-color: #eaaabc;
+    /* background-color: #eaaabc; */
     height: 100vh;
   }
 }
