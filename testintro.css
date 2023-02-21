@@ -258,7 +258,7 @@ h3 {
     z-index: 15;
   }
   .main {
-    background-color: yellow;
+    /* background-color: yellow; */
     font-family: "Alice", serif;
     font-family: "Mulish", sans-serif;
     width: 100vw;
@@ -322,7 +322,7 @@ h3 {
 
 @media only screen and (min-width: 200px) and (max-width: 500px) {
   .main {
-    background-color: yellow;
+    /* background-color: yellow; */
     font-family: "Alice", serif;
     font-family: "Mulish", sans-serif;
     height: 1300px;
@@ -609,7 +609,7 @@ progress::-webkit-progress-bar {
     font-family: Arial, Helvetica, sans-serif;
     margin-right: 15px;
     margin-top: 10px;
-    font-size: 2.1vw;
+    font-size: 2.3vw;
     border: 1px solid #e2577e;
     font-weight: 500;
     color: #e2577e;
